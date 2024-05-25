@@ -1,12 +1,12 @@
 {
-    "signal": [ 
+    "gold": [ 
 	{
         "signal_id" : 1,
-        "signal_title": "Test Signal 1",
+        "signal_title": "Test Gold Signal 1",
         "signal_image": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Support.jpg",
         "order_type": "Sell",
         "entry": "Entry  2320 \n\n Tp1   2325 \n\n Tp2   2328 \n\n Tp3   2333 \n\n Sl   2317",
-        "signal_message": "This is test signal message for test signal 1",		
+        "signal_message": "This is test signal message for test gold signal 1",		
         "timestamp": "20240525201126 +0530"
     } ,
 	{
@@ -20,11 +20,11 @@
     } ,
 	{
         "signal_id" : 3,
-        "signal_title": "Test Signal 2",
+        "signal_title": "Test Gold Signal 2",
         "signal_image": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Support.jpg",
         "order_type": "Buy",
         "entry": "Entry  2320 \n\n Tp1   2325 \n\n Tp2   2328 \n\n Tp3   2333 \n\n Sl   2317",
-        "signal_message": "This is test signal message for test signal 2",		
+        "signal_message": "This is test signal message for test gold signal 2",		
         "timestamp": "20240524201126 +0530"
     }
 	]
