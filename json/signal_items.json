@@ -3,7 +3,8 @@
         "signal_title": "Test Signal 1",
         "signal_image": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Support.jpg",
         "order_type": "Sell",
-        "entry": "Entry  2320 \n\n Tp1   2325 \n\n Tp2   2328 \n\n Tp3   2333 \n\n Sl   2317",
+        "entry": "Entry  2320
+	    \n\n Tp1   2325 \n\n Tp2   2328 \n\n Tp3   2333 \n\n Sl   2317",
 		    "target_profit1": "10",
 		    "target_profit2": "20",
 		    "target_profit3": "30",
