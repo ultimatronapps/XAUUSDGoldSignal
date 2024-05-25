@@ -11,6 +11,17 @@
 		    "signal_message": "This is test signal message for test signal 1",		
         "timestamp": "20240517201126 +0530"
     },{
+        "signal_title": "FOR AD",
+        "signal_image": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Support.jpg",
+        "order_type": "Sell",
+        "entry": "1000",
+		    "target_profit1": "10",
+		    "target_profit2": "20",
+		    "target_profit3": "30",
+		    "stop_loss": "950",
+		    "signal_message": "This is test signal message for test signal 1",		
+        "timestamp": "20240517201126 +0530"
+    },{
         "signal_title": "Test Signal 2",
         "signal_image": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Support.jpg",
         "order_type": "Buy",
