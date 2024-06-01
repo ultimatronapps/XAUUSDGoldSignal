@@ -1,0 +1,28 @@
+{
+    "info": [ 
+	{
+        "info_id" : 1,
+        "message": "Test Info 1",
+        "image": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Support.jpg",
+		"order": 1
+    } ,
+	{
+        "info_id" : 2,
+        "message": "Test Info 2",
+        "image": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Support.jpg",
+		"order": 2
+    } ,
+	{
+        "info_id" : 3,
+        "message": "Test Info 3",
+        "image": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Support.jpg",
+		"order": 3
+    } ,
+	{
+        "info_id" : 4,
+        "message": "Test Info 4",
+        "image": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Support.jpg",
+		"order": 4
+    }
+	]
+}
