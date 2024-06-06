@@ -2,11 +2,11 @@
     "gold": [ 
 	{
         "signal_id" : 1,
-        "signal_title": "GOLD Signal",
+        "signal_title": "GOLD Signal(Closed)",
         "signal_image": "https://raw.githubusercontent.com/ultimatronapps/XAUUSDGoldSignal/main/Screenshot%202024-06-06%20162410.png",
-        "order_type": "Buy",
-        "entry": "Entry  2360 \n\n Tp1   2364 \n\n Tp2   2366 \n\n Tp3   2368 \n\n Sl   2357.5",
-        "signal_message": "Don't hold it for too long if market starts to ranging",		
+        "order_type": "Buy Closed",
+        "entry": "Entry  2360 \n\n Tp1   2364 \n\n Tp2   2366 \n\n Tp3   2368 \n\n Sl   2357.5 \n\n\n Closed 10 pips loss",
+        "signal_message": "Will find a better entry",		
         "timestamp": "20240606162500 +0530"
     } ,
 	{
